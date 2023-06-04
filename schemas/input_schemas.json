@@ -1,0 +1,48 @@
+[
+    {
+        "battery_level": 80,
+        "battery_status": "charged",
+        "battery_info": {
+            "voltage": 3.7,
+            "capacity": "3000mAh"
+        }
+    },
+    {
+        "power": {
+            "level": 80,
+            "status": "charged"
+        },
+        "battery": {
+            "voltage": "3.7V",
+            "capacity": 3000
+        }
+    },
+    {
+        "Battery": {
+            "Level": 80,
+            "Status": "charged",
+            "Information": {
+                "Voltage": "3.7 volts",
+                "Capacity": "3000 mAh"
+            }
+        }
+    },
+    {
+        "batLevel": "80%",
+        "batStatus": "charged",
+        "batDetails": {
+            "batVoltage": 3.7,
+            "batCapacity": "3000 milliampere-hours"
+        }
+    },
+    {
+        "energy": {
+            "currentLevel": 80,
+            "status": "charged",
+            "details": {
+                "voltage": "3.7V",
+                "capacity": "3000mAh"
+            }
+        }
+    }
+]

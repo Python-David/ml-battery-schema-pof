@@ -1,0 +1,10 @@
+{
+    "battery": {
+        "level": 80,
+        "status": "charged",
+        "details": {
+            "voltage": "3.7V",
+            "capacity": "3000mAh"
+        }
+    }
+}
